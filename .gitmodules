@@ -1,0 +1,81 @@
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/glib"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/glib
+	url = https://gitlab.gnome.org/GNOME/glib.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/gtk"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/gtk
+	url = https://gitlab.gnome.org/GNOME/gtk.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/libadwaita"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/libadwaita
+	url = https://gitlab.gnome.org/GNOME/libadwaita.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/gjs"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/gjs
+	url = https://gitlab.gnome.org/GNOME/gjs.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/core/mutter"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/core/mutter
+	url = https://gitlab.gnome.org/GNOME/mutter.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/core/gnome-shell"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/core/gnome-shell
+	url = https://gitlab.gnome.org/GNOME/gnome-shell.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/core/gnome-session"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/core/gnome-session
+	url = https://gitlab.gnome.org/GNOME/gnome-session.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/core/gnome-settings-daemon"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/core/gnome-settings-daemon
+	url = https://gitlab.gnome.org/GNOME/gnome-settings-daemon.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/applications/control-center"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/applications/control-center
+	url = https://gitlab.gnome.org/GNOME/gnome-control-center.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/gnome-desktop"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/gnome-desktop
+	url = https://gitlab.gnome.org/GNOME/gnome-desktop.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/gsettings-desktop-schemas"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/gsettings-desktop-schemas
+	url = https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/dconf"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/dconf
+	url = https://gitlab.gnome.org/GNOME/dconf.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/gnome-keyring"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/gnome-keyring
+	url = https://gitlab.gnome.org/GNOME/gnome-keyring.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/gnome-bluetooth"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/gnome-bluetooth
+	url = https://gitlab.gnome.org/GNOME/gnome-bluetooth.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/gvfs"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/gvfs
+	url = https://gitlab.gnome.org/GNOME/gvfs.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/xdg-desktop-portal"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/xdg-desktop-portal
+	url = https://github.com/flatpak/xdg-desktop-portal.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/platform/xdg-desktop-portal-gnome"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/platform/xdg-desktop-portal-gnome
+	url = https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/applications/files"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/applications/files
+	url = https://gitlab.gnome.org/GNOME/nautilus.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/applications/console"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/applications/console
+	url = https://gitlab.gnome.org/GNOME/console.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/applications/text-editor"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/applications/text-editor
+	url = https://gitlab.gnome.org/GNOME/gnome-text-editor.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/applications/system-monitor"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/applications/system-monitor
+	url = https://gitlab.gnome.org/GNOME/gnome-system-monitor.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/applications/disks"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/applications/disks
+	url = https://gitlab.gnome.org/GNOME/gnome-disk-utility.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/applications/initial-setup"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/applications/initial-setup
+	url = https://gitlab.gnome.org/GNOME/gnome-initial-setup.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/resources/icons"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/resources/icons
+	url = https://gitlab.gnome.org/GNOME/adwaita-icon-theme.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/resources/fonts"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/resources/fonts
+	url = https://gitlab.gnome.org/GNOME/adwaita-fonts.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/resources/wallpapers"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/resources/wallpapers
+	url = https://gitlab.gnome.org/GNOME/gnome-backgrounds.git
+[submodule "/home/aqsa/Documents/Cxx_Rs/upstream/build/gnome-build-meta"]
+	path = /home/aqsa/Documents/Cxx_Rs/upstream/build/gnome-build-meta
+	url = https://gitlab.gnome.org/GNOME/gnome-build-meta.git
